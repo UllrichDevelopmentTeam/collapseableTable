@@ -1,3 +1,10 @@
+.hide-column{
+    display: none;
+    visibility: hidden;
+}
+
+
+
 /* The lines below are for testing purposes */
 
 * {
@@ -14,7 +21,7 @@ table, tr, td, th {
 }
 
 th {
-    background-color: yellowgreen;
+    background-color: lightblue;
     text-align: center;
     padding-top: 12px;
     padding-bottom: 12px;
@@ -24,5 +31,6 @@ tr, td {
     padding-top: 8px;
     padding-bottom: 8px;
 }
+
 
 /* The lines above are for testing purposes */
