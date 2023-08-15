@@ -1,9 +1,12 @@
 .hide-column{
     /* display: none; */
     visibility: hidden;
+    width: 50px;
 }
 
-
+.shrink-width{
+    width: 50px;
+}
 
 /* The lines below are for testing purposes */
 
